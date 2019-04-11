@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-This is also my day 5 web site. Hi!
+This is also my day 5 web site. Hi! I am using Cloud Cannon's web based text editor and it's pretty cool I have to say! I type and click their save button and my repo on GitHub is updated! This is pretty sweet!
