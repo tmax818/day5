@@ -14,15 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Day 5
-email: your-email@example.com
+email: tylermaxwell661@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This is day five of my 180 website challenge. This is just the plain vanilla page that comes with
+ a Jekyll build. I am hosting it on Cloud Cannon. I have never used this service, but it seems okay in the
+ five minutes I have been using it. They have a free tier so that's all I care about. Thanks for Reading! See you 
+ on day 6!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tmax818
+github_username:  tmax818
 
 # Build settings
 markdown: kramdown
